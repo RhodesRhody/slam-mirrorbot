@@ -12,18 +12,21 @@ google-auth-httplib2
 google-auth-oauthlib
 gunicorn
 heroku3
+html-telegraph-poster
 js2py
 lk21
 lxml
+messages
 psutil
 psycopg2-binary
 pybase64
-pyrogram
+Pyrogram==1.2.9
 pyshorteners
 python-dotenv
 python-magic
 python-telegram-bot
 qbittorrent-api
+quoters
 requests
 speedtest-cli
 telegraph
@@ -32,3 +35,4 @@ TgCrypto
 torrentool==1.1.0
 urllib3
 youtube_dl
+yt-dlp
