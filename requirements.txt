@@ -36,3 +36,9 @@ torrentool==1.1.0
 urllib3
 youtube_dl
 yt-dlp
+
+oauth2client
+progress
+progressbar2
+httplib2shim
+pyrogram
