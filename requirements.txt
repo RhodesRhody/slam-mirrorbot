@@ -42,3 +42,4 @@ progress
 progressbar2
 httplib2shim
 pyrogram
+megasdkrestclient
