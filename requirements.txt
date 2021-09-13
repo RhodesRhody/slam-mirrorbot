@@ -43,3 +43,10 @@ progressbar2
 httplib2shim
 pyrogram
 megasdkrestclient
+
+dnspython
+aiofiles
+motor
+pillow
+hachoir
+pyromod
