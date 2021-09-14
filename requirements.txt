@@ -43,6 +43,7 @@ progressbar2
 httplib2shim
 pyrogram
 megasdkrestclient
+randfacts
 
 dnspython
 aiofiles
